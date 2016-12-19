@@ -1,0 +1,127 @@
+body {
+  background:#556b2f;
+  font-family:'Nunito';
+  color:#f6f6f6;
+  padding:6px;
+}
+a {
+  color:#AAB597;
+}
+#header {
+  width:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  background:#0e402d;
+  font-size:25px;
+}
+#header-flag {
+  position:relative;
+  left:5px;
+  top:5px;
+}
+.header-sect {
+  position:absolute;
+  top:10px;
+}
+#homeBut {
+  left:10%;
+}
+#jobsBut {
+  left:17%;
+}
+#homesBut {
+  left:23%;
+}
+#lawsBut {
+  left:32%;
+}
+#eduBut {
+  left:39%;
+}
+#transBut {
+  left:50%;
+}
+#recBut {
+  left:65%;
+}
+#monBut {
+  left:76%
+}
+#envBut {
+  left:86%;
+}
+.title {
+  position:absolute;
+  top:10%;
+  left:40%;
+  font-size:50px;
+}
+.descriptionPara {
+  width:800px;
+  position:absolute;
+  top:35%;
+  left:20%;
+  font-size:18px;
+}
+.image {
+  border-radius:10%;
+  width:200px;
+  height:200px;
+  position:absolute;
+}
+#solarcar {
+  top:60%;
+  left:50%;
+}
+#laptop {
+  top:65%;
+  left:50%;
+}
+#joblist {
+  position:absolute;
+  top:53%;
+  left:20%;
+  font-size:18px;
+}
+#disumTitle {
+  position:absolute;
+  width:500px;
+  height:350px;
+  top:2%;
+  left:30%;
+}
+#lawlist {
+  position:absolute;
+  top:55%;
+  left:20%;
+  font-size:18px;
+}
+#blueprint {
+  left:82%;
+  top:10%;
+}
+#library {
+  top:60%;
+  left:50%;
+}
+#petracoin {
+  top:60%;
+  left:70%;
+}
+#homeview {
+  position:absolute;
+  top:60%;
+  left:40%;
+}
+#glove {
+  top:60%;
+  left:5%;
+}
+#ppd {
+  position:absolute;
+  width:120px;
+  height:200px;
+  top:20%;
+  left:5%;
+}
